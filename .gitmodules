@@ -1,0 +1,3 @@
+[submodule "Pi-Eye"]
+	path = Pi-Eye
+	url = https://github.com/robertahunt/Pi-Eye
